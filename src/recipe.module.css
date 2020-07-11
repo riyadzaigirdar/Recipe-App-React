@@ -1,0 +1,21 @@
+.result{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-self: center;
+    justify-content: center;
+    background-color: blanchedalmond;
+    margin: 10px;
+}
+
+.image{
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    align-self: center;
+    border-radius:5px ;
+}
+
+.ingrident{
+    list-style: none;
+}
